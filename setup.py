@@ -1,6 +1,6 @@
 [metadata]
 name = robotpy
-version = attr: robotpy.VERSION
+version = 0.0.1
 description = Robot library to start calls and return messages to database
 
 [options]
