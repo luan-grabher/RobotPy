@@ -1,7 +1,7 @@
 [metadata]
 name = robotpy
 version = "0.0.1"
-description = Robot library to start calls and return messages to database
+description = "Robot library to start calls and return messages to database"
 
 [options]
 packages = find:
